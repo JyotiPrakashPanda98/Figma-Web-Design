@@ -78,25 +78,7 @@ npm run build
 npm start
 ```
 
-## 🚀 Deployment
 
-### Deploy to Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and sign in
-3. Click "Add New Project"
-4. Import your GitHub repository
-5. Vercel will automatically detect Next.js and configure the deployment
-6. Click "Deploy" to get your live URL
-
-### Deploy to Render
-
-1. Push your code to GitHub
-2. Create a new Web Service on [Render](https://render.com)
-3. Connect your GitHub repository
-4. Set build command: `npm run build`
-5. Set start command: `npm start`
-6. Deploy
 
 ## 📝 License
 
